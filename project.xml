@@ -9,9 +9,9 @@
 
 	<app
 		title="Codename Engine" main="funkin.backend.system.Main"
-		file="CodenameEngine" packageName="com.yoshman29.codenameengine"
-		package="com.yoshman29.codenameengine"
-		version="1.0.1.1" company="Yoshman29" />
+		file="CodenameEngine" packageName="com.yoshman3D.codenameengine"
+		package="com.yoshman3D.codenameengine"
+		version="1.0.1" company="Yoshman29" />
 
 	<!--
 		CHANGE THE SAVE PATH & NAME FOR YOUR MOD HERE!
