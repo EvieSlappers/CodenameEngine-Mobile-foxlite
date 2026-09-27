@@ -137,11 +137,12 @@
 	<haxedef name="DISCORD_DISABLE_IO_THREAD" if="DISCORD_RPC"/>
 
 	<haxelib name="flixel" />
-		<haxelib name="foxlite" />
+		
 	<haxelib name="flixel-addons" />
 
 	<haxelib name="hxvlc" if="VIDEO_CUTSCENES" />
 	<haxelib name="away3d" if="THREE_D_SUPPORT" />
+	<haxelib name="foxlite" />
 	<haxelib name="format" />
 	<haxelib name="flixel-animate" />
 	<haxelib name="nape-haxe4" if="NAPE_ENABLED"/>
